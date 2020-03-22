@@ -3,6 +3,7 @@
   "description": "Contains a bank application written in AngularJS",
   "version": "1.0.0",
   "dependencies": {
+    "angular-cli-ghpages": "^0.6.2",
     "body-parser": "^1.19.0",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
@@ -10,7 +11,8 @@
     "karma": "^4.4.1",
     "karma-chrome-launcher": "^3.1.0",
     "karma-jasmine": "^3.1.1",
-    "method-override": "^3.0.0"
+    "method-override": "^3.0.0",
+    "save-dev": "0.0.1-security"
   },
   "devDependencies": {
     "minimist": "^1.2.5"
