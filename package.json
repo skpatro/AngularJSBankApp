@@ -12,7 +12,9 @@
     "karma-jasmine": "^3.1.1",
     "method-override": "^3.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "minimist": "^1.2.5"
+  },
   "engines": {
     "node": ">=0.10.0"
   }
