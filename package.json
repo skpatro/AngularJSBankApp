@@ -15,7 +15,7 @@
     "save-dev": "0.0.1-security"
   },
   "devDependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "engines": {
     "node": ">=0.10.0"
